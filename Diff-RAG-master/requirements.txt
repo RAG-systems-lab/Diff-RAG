@@ -1,0 +1,15 @@
+torch>=2.1.0
+transformers>=4.37.0
+accelerate>=0.20.0
+peft>=0.6.0
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4 
+spacy>=3.7.0
+py2neo>=2021.2.3   
+networkx>=3.0      
+rdflib>=6.3.0      
+pyvis>=0.3.2      
+numpy>=1.24.0
+scipy>=1.10.0      
+tqdm>=4.65.0
+datasets>=2.14.0
